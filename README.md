@@ -1,4 +1,3 @@
-# json_ml_veg_nonveg_prediction
 # JSON ML Veg Non-Veg Prediction
 
 A Machine Learning classification project that predicts whether a recipe is **Vegetarian or Non-Vegetarian** using structured recipe data stored in JSON format.
